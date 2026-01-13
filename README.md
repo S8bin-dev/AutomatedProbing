@@ -4,7 +4,6 @@ A Python-based automated measurement system that combines a **Thorlabs KVS30/M V
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
@@ -260,12 +259,6 @@ For Windows systems, update the port configurations:
 STAGE_PORT = 'COM3'    # Check Device Manager for actual port
 PROBE_PORT = 'COM4'    # Check Device Manager for actual port
 ```
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
