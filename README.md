@@ -59,7 +59,7 @@ pip install pylablib xtralien numpy matplotlib
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AutomatedProbing.git
+git clone https://github.com/S8bin-dev/AutomatedProbing.git
 cd AutomatedProbing
 ```
 
@@ -278,7 +278,7 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 ## 📬 Contact
 
 **Author:** Sabin  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**GitHub:** [@S8bin-dev](https://github.com/S8bin-dev)
 
 ---
 
